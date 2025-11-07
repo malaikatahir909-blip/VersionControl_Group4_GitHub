@@ -14,3 +14,10 @@ To practice Git version control:
 
 ## Platform:
 GitHub – Leader: YOU
+## Final Remarks
+
+All team members successfully completed their tasks.  
+Branches were created, commits were made, and Pull Requests were merged.  
+Conflicts (if any) were resolved by the team leader.  
+This repository demonstrates effective collaboration using GitHub.
+
